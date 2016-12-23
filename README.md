@@ -1,12 +1,12 @@
 # COLLAGE
 
-Stitch Little Images Into Larger Images
+Stitching Little Images Into Larger Images
 
 **Instructions**:
 
 * **Setting Executable Bit**: eg. `$chmod +x collage.py`
 * **Browsing Usage**: eg. `./collage.py -h`
-* **Convert Output Images to Video**: eg `ffmpeg -r 25 -i output/frame-%05d.jpg -c:v libx264 -vf fps=25 -pix_fmt yuv420p out.mp4`
+* **Converting Output Images to Video**: eg. `ffmpeg -r 25 -i output/frame-%05d.jpg -c:v libx264 -vf fps=25 -pix_fmt yuv420p out.mp4`
 
 **Examples**:
 
