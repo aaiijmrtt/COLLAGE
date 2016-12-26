@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import sys, getopt
 import cv2
 import util
